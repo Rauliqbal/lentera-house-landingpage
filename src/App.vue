@@ -4,7 +4,8 @@
     <Hero/>
     <Partner class="my-32"/>
     <Card/>
-    <Community/>
+    <Community class="my-32"/>
+    <div class="pt-10" ></div>
   </div>
 </template>
 

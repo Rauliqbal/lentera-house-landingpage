@@ -5,6 +5,10 @@
         <div
             class="container-fluid w-full flex flex-wrap items-center justify-between px-6"
         >
+             <a class="text-xl text-black font-poppins" href="#">
+                    <img class="w-14" src="../assets/images/logo.png" alt="">
+            </a>
+
             <button
                 class="navbar-toggler text-gray-500 border-0 hover:shadow-none hover:no-underline py-2 px-2.5 bg-transparent focus:outline-none focus:ring-0 focus:shadow-none focus:no-underline"
                 type="button"
@@ -30,13 +34,11 @@
                     ></path>
                 </svg>
             </button>
+
             <div
-                class="collapse navbar-collapse flex-grow items-center"
+                class="collapse navbar-collapse flex-grow items-center pt-6 lg:pt-0"
                 id="navbarSupportedContent"
             >
-                <a class="text-xl text-black font-poppins" href="#">
-                    <img class="w-14" src="../assets/images/logo.png" alt="">
-                </a>
                 <!-- Left links -->
                 <ul
                     class="navbar-nav flex flex-col pl-0 list-style-none ml-auto gap-8"
