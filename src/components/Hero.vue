@@ -1,7 +1,7 @@
 <template>
     <div class="flex flex-col lg:flex-row items-center justify-center">
 
-        <div class="w-full lg:w-1/2 px-5 lg:px-8">
+        <div class="w-full lg:w-1/2 px-5 lg:px-8" data-aos="fade-up" data-aos-delay="400">
             <h1 class="font-semibold text-4xl lg:text-5xl leading-snug">We have thousand <br> of your dream home</h1>
             <p class="text-base lg:text-lg text-gray-400 mt-4 leading-loose">A light that will guide you to find what you’ve <br>
             been looking for long long time ago</p>
@@ -30,7 +30,7 @@
             </form>  
         </div>      
  
-        <div class="w-full lg:w-1/2">
+        <div class="w-full lg:w-1/2" data-aos="fade-down" data-aos-delay="400">
             <img src="../assets/images/banner.png" alt="hero images">
         </div>
 

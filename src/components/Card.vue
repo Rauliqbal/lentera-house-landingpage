@@ -6,7 +6,7 @@
         <div class="grid grid-cols-2 lg:grid-cols-4 items-center justify-center gap-8 mt-16">
 
             <!-- Card 1 -->
-            <div class="flex flex-col group">
+            <div class="flex flex-col group" data-aos="zoom-in" data-aos-delay="400">
                 <div class="relative rounded-3xl overflow-hidden">
                     <img class="group-hover:scale-105 transition-all duration-300 ease-out" src="../assets/images/place1.png" alt="lembang bandung">
                     <div class="bg-[#8080FF] px-3 py-1 rounded-bl-3xl flex items-center gap-2 absolute right-0 top-0 ">
@@ -20,7 +20,7 @@
             </div>
 
             <!-- Card 2 -->
-             <div class="flex flex-col group">
+             <div class="flex flex-col group" data-aos="zoom-in" data-aos-delay="600">
                 <div class="relative rounded-3xl overflow-hidden">
                     <img class="group-hover:scale-105 transition-all duration-300 ease-out" src="../assets/images/place2.png" alt="Angga centre">
                     <div class="bg-[#8080FF] px-3 py-1 rounded-bl-3xl flex items-center gap-2 absolute right-0 top-0 ">
@@ -34,7 +34,7 @@
             </div>
 
             <!-- Card 3 -->
-             <div class="flex flex-col group">
+             <div class="flex flex-col group" data-aos="zoom-in" data-aos-delay="800">
                 <div class="relative rounded-3xl overflow-hidden">
                     <img class="group-hover:scale-105 transition-all duration-300 ease-out"  src="../assets/images/place3.png" alt="Ahya france">
                     <div class="bg-[#8080FF] px-3 py-1 rounded-bl-3xl flex items-center gap-2 absolute right-0 top-0 ">
@@ -48,7 +48,7 @@
             </div>
 
             <!-- Card 4 -->
-             <div class="flex flex-col group">
+             <div class="flex flex-col group" data-aos="zoom-in" data-aos-delay="1000">
                 <div class="relative rounded-3xl overflow-hidden">
                     <img  class="group-hover:scale-105 transition-all duration-300 ease-out" src="../assets/images/place4.png" alt="Koko Jamaica">
                     <div class="bg-[#8080FF] px-3 py-1 rounded-bl-3xl flex items-center gap-2 absolute right-0 top-0 ">

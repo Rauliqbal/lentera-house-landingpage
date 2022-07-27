@@ -5,12 +5,12 @@
 
         <div class="container flex flex-col lg:flex-row items-center justify-center gap-8 px-5 lg:px-12 absolute top-[60px]">
 
-        <div class="w-full lg:w-2/5">
+        <div class="w-full lg:w-2/5" data-aos="fade-down" data-aos-delay="400">
             <h2 class="text-3xl lg:text-4xl font-semibold">Become a part <br> of our community</h2>
              <p class="text-gray-400 text-base lg:text-lg leading-loose mt-4">Grow and live together to pursue happiness that we always dreaming of</p>
         </div>
 
-        <div class="w-[78%] lg:w-3/5">
+        <div class="w-[78%] lg:w-3/5" data-aos="fade-up" data-aos-delay="600">
             <swiper
                 :slidesPerView="'auto'"
                 :spaceBetween="30"
